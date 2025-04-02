@@ -158,3 +158,4 @@ d:\Alkhtab\Web Devlopment\App Store.Api\obj\Debug\net8.0\App Stor.DFA4ED28.Up2Da
 d:\Alkhtab\Web Devlopment\App Store.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 d:\Alkhtab\Web Devlopment\App Store.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 d:\Alkhtab\Web Devlopment\App Store.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\Alkhtab\Web Devlopment\App Store.Api\obj\Debug\net8.0\App Store.Api.sourcelink.json

@@ -1,0 +1,1 @@
+web: dotnet App Store.Api.dll
