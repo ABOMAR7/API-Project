@@ -1,0 +1,25 @@
+D:\Alkhtab\Web Devlopment\App Store.Api\bin\Release\net8.0\appsettings.Development.json
+D:\Alkhtab\Web Devlopment\App Store.Api\bin\Release\net8.0\appsettings.json
+D:\Alkhtab\Web Devlopment\App Store.Api\bin\Release\net8.0\App Store.Api.exe
+D:\Alkhtab\Web Devlopment\App Store.Api\bin\Release\net8.0\App Store.Api.deps.json
+D:\Alkhtab\Web Devlopment\App Store.Api\bin\Release\net8.0\App Store.Api.runtimeconfig.json
+D:\Alkhtab\Web Devlopment\App Store.Api\bin\Release\net8.0\App Store.Api.dll
+D:\Alkhtab\Web Devlopment\App Store.Api\bin\Release\net8.0\App Store.Api.pdb
+D:\Alkhtab\Web Devlopment\App Store.Api\obj\Release\net8.0\App Store.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alkhtab\Web Devlopment\App Store.Api\obj\Release\net8.0\App Store.Api.AssemblyInfoInputs.cache
+D:\Alkhtab\Web Devlopment\App Store.Api\obj\Release\net8.0\App Store.Api.AssemblyInfo.cs
+D:\Alkhtab\Web Devlopment\App Store.Api\obj\Release\net8.0\App Store.Api.csproj.CoreCompileInputs.cache
+D:\Alkhtab\Web Devlopment\App Store.Api\obj\Release\net8.0\App Store.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Alkhtab\Web Devlopment\App Store.Api\obj\Release\net8.0\staticwebassets.build.json
+D:\Alkhtab\Web Devlopment\App Store.Api\obj\Release\net8.0\staticwebassets.development.json
+D:\Alkhtab\Web Devlopment\App Store.Api\obj\Release\net8.0\staticwebassets\msbuild.App Store.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Alkhtab\Web Devlopment\App Store.Api\obj\Release\net8.0\staticwebassets\msbuild.build.App Store.Api.props
+D:\Alkhtab\Web Devlopment\App Store.Api\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.App Store.Api.props
+D:\Alkhtab\Web Devlopment\App Store.Api\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.App Store.Api.props
+D:\Alkhtab\Web Devlopment\App Store.Api\obj\Release\net8.0\staticwebassets.pack.json
+D:\Alkhtab\Web Devlopment\App Store.Api\obj\Release\net8.0\scopedcss\bundle\App Store.Api.styles.css
+D:\Alkhtab\Web Devlopment\App Store.Api\obj\Release\net8.0\App Store.Api.dll
+D:\Alkhtab\Web Devlopment\App Store.Api\obj\Release\net8.0\refint\App Store.Api.dll
+D:\Alkhtab\Web Devlopment\App Store.Api\obj\Release\net8.0\App Store.Api.pdb
+D:\Alkhtab\Web Devlopment\App Store.Api\obj\Release\net8.0\App Store.Api.genruntimeconfig.cache
+D:\Alkhtab\Web Devlopment\App Store.Api\obj\Release\net8.0\ref\App Store.Api.dll
